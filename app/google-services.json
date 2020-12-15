@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "162048328445",
+    "firebase_url": "https://chatapp-b8c4a.firebaseio.com",
+    "project_id": "chatapp-b8c4a",
+    "storage_bucket": "chatapp-b8c4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162048328445:android:f74cdd47a53ef910407494",
+        "android_client_info": {
+          "package_name": "com.app.videochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162048328445-gc77ifathafmijioj111bg2u88hjl2i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5lvJGyIcCRIha8hsMds7cwWUjfLMLeYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162048328445-gc77ifathafmijioj111bg2u88hjl2i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
